@@ -22,17 +22,4 @@ https://github.com/user-attachments/assets/12cb8f65-de1d-4cee-bb2e-b5919774cdc2
 
 
 
-# links
 
-<div align="center">
-
-
-
-<a href="https://api.omgcreation.in/">→ Click Here Go To Add Student From.</a>
-
----
-
-<a href="https://api.omgcreation.in/usersjson.php">→ Click Here Go To Json Data</a>
-
-
-</div>
